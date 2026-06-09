@@ -1,0 +1,10 @@
+﻿asset_id,equipment_type,manufacturer,model,service,motor_rating_kw,nominal_fad_nm3_h,nominal_discharge_bar_g,control_mode,availability_status,register_data_as_of,source_note
+C-101,rotary_screw_compressor,Atlas Ridge,AR110-FS,base air generation,110,1550,7.5,fixed-speed load/unload,available,2024-11-30,Register entry believed current; verify field condition.
+C-102,rotary_screw_compressor,Atlas Ridge,AR90-FS,trim air generation,90,1500,7.5,fixed-speed load/unload,available,2024-11-30,LEGACY ENTRY: register was not revised after 2025 motor/control retrofit.
+C-103,rotary_screw_compressor,Atlas Ridge,AR110-FS,standby air generation,110,1550,7.5,fixed-speed load/unload,available,2024-11-30,LEGACY ENTRY: availability must be checked against maintenance history.
+DR-301,heatless_desiccant_dryer,DryAir Systems,DAS-2500,compressed-air treatment,,2500,,fixed purge,available,2024-11-30,Nameplate purge estimate 90 Nm3/h at rated conditions; field isolation test required.
+F-301,coalescing_filter_train,DryAir Systems,CF-2500,compressed-air treatment,,2500,,n/a,available,2024-11-30,Clean-element differential pressure listed as 0.18 bar; as-found pressure drop not recorded in register.
+V-401,wet_receiver,Northline Fabrication,VR-6000,compressor-room storage,,,10,n/a,available,2024-11-30,Installed geometric volume: 6.0 m3.
+FT-201,thermal_mass_flowmeter,FlowSense,FS-TM-2400,main-header flow measurement,,2400,,4-20 mA,available,2024-11-30,Replacement transmitter installed after original register issue; historian scaling should be verified.
+PT-401,pressure_transmitter,Instrumax,PX-10,compressor-room receiver pressure,,,10,4-20 mA,available,2024-11-30,Receiver header pressure.
+PT-404,pressure_transmitter,Instrumax,PX-10,packaging-hall point-of-use pressure,,,10,4-20 mA,available,2024-11-30,Critical end-use pressure sensor; use for packaging-hall compliance.

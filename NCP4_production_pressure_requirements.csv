@@ -1,0 +1,6 @@
+﻿process_id,process_name,location,normal_demand_nm3_h,intermittent_increment_nm3_h,event_duration_s,minimum_point_of_use_pressure_bar_g,max_concurrent_events,criticality,approval_status,notes
+P-101,Laser cutting cells,Main fabrication bay,850,0,0,6.10,0,high,approved,Continuous demand.
+P-102,Assembly pneumatic tools,Assembly hall,360,0,0,6.00,0,medium,approved,Continuous production demand.
+P-103,Packaging labeler and case sealer,Packaging hall,420,620,50,6.30,1,critical,approved,Credible intermittent event; use PT-404 at packaging manifold for compliance.
+P-104,Quality and maintenance air,Plant-wide,200,0,0,5.80,0,low,approved,Continuous allowance.
+P-105,Proposed packaging expansion,Packaging hall,,,,,,unconfirmed,NOT APPROVED,Mentioned informally only. Do not invent demand or include in approved design basis; track as an open item.

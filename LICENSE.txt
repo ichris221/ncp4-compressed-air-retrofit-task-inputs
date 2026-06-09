@@ -1,0 +1,20 @@
+CC0 1.0 SELF-CREATED SYNTHETIC TASK PACKAGE DECLARATION
+
+Package: NCP4 compressed-air retrofit mechanical-engineering task inputs
+Creator: OpenAI-generated synthetic fixture prepared for the user
+License dedication: CC0 1.0 Universal
+
+All files in this package are original synthetic materials created specifically for this task. They contain fictitious plant names, asset identifiers, operating records, signatures, and engineering scenarios. They do not reproduce third-party confidential records.
+
+The following task-input files are covered:
+- NCP4_compressed_air_asset_register.csv
+- NCP4_metering_walkdown_and_tag_review.docx
+- NCP4_weekly_power_pressure_and_flow_logger.xlsx
+- NCP4_flowmeter_calibration_and_isolation_test.xlsx
+- NCP4_compressor_maintenance_history.docx
+- NCP4_vendor_performance_curves.xlsx
+- NCP4_production_pressure_requirements.csv
+- NCP4_retrofit_quotes_and_shutdown_constraints.xlsx
+- NCP4_energy_tariff_addendum.pdf
+
+The separate author-notes document is also synthetic but should not be uploaded as a model input because it reveals the intended answers.
